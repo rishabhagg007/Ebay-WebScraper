@@ -59,7 +59,7 @@ public class EbayWebScraper {
 					
 					System.out.println("\n*********** Page number :  " + j + " ****************");
 					
-                    int n=1;
+                    			int n=1;
 					for (Element li : lis) {
 
 						/*
