@@ -1,2 +1,2 @@
 # Ebay-WebScraper
-A web crawler for Ebay.
+Created a web crawler for Ebay using Jsoup Library in Java. The program will search for "Lg phone" on the auctions page on eBay and will download the search results for first 10 pages into 10 seoarate Html files. The program then reads html files and parses them to Jsoup Object to get the details of each auction item such as Product name, Item Price, Number of Bids placed, Url for each item. 
